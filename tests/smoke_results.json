@@ -1,0 +1,44 @@
+[
+  {
+    "stage": "tidewater",
+    "mode": "turf",
+    "passed": true,
+    "exit": 0
+  },
+  {
+    "stage": "kelpline",
+    "mode": "turf",
+    "passed": true,
+    "exit": 0
+  },
+  {
+    "stage": "halyard",
+    "mode": "zones",
+    "passed": true,
+    "exit": 0
+  },
+  {
+    "stage": "saltpan",
+    "mode": "zones",
+    "passed": true,
+    "exit": 0
+  },
+  {
+    "stage": "crossmarket",
+    "mode": "turf",
+    "passed": true,
+    "exit": 0
+  },
+  {
+    "stage": "lockgate",
+    "mode": "zones",
+    "passed": true,
+    "exit": 0
+  },
+  {
+    "stage": "terraces",
+    "mode": "boss",
+    "passed": true,
+    "exit": 0
+  }
+]

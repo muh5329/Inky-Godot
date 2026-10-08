@@ -1,0 +1,7 @@
+.godot/
+.DS_Store
+source_reference/
+tools/node_modules/
+builds/
+*.log
+tools/.venv/

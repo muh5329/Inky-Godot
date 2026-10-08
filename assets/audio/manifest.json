@@ -1,0 +1,1085 @@
+{
+  "source": "98ea29694ab3eebaaeaa995c2b525ac883a48de5",
+  "sampleRate": 32000,
+  "sfx": {
+    "ui_hover": {
+      "seconds": 0.105,
+      "peak": 0.016617964953184128,
+      "loop": false
+    },
+    "ui_click": {
+      "seconds": 0.46759375,
+      "peak": 0.03117205575108528,
+      "loop": false
+    },
+    "ui_confirm": {
+      "seconds": 0.72309375,
+      "peak": 0.1740625500679016,
+      "loop": false
+    },
+    "ui_back": {
+      "seconds": 0.63275,
+      "peak": 0.149221733212471,
+      "loop": false
+    },
+    "ui_toggle": {
+      "seconds": 0.36678125,
+      "peak": 0.033192228525877,
+      "loop": false
+    },
+    "ui_slider": {
+      "seconds": 0.105,
+      "peak": 0.019287753850221634,
+      "loop": false
+    },
+    "ui_error": {
+      "seconds": 0.561125,
+      "peak": 0.1298546940088272,
+      "loop": false
+    },
+    "shoot_shooter": {
+      "seconds": 0.72790625,
+      "peak": 0.1026134118437767,
+      "loop": false
+    },
+    "shoot_blaster": {
+      "seconds": 1.00028125,
+      "peak": 0.25785672664642334,
+      "loop": false
+    },
+    "blaster_pump": {
+      "seconds": 0.87371875,
+      "peak": 0.5844494700431824,
+      "loop": false
+    },
+    "blaster_boom": {
+      "seconds": 1.132375,
+      "peak": 0.4363596439361572,
+      "loop": false
+    },
+    "charger_charge": {
+      "seconds": 1.53065625,
+      "peak": 0.30600348114967346,
+      "loop": true
+    },
+    "charger_full": {
+      "seconds": 0.98484375,
+      "peak": 0.36695149540901184,
+      "loop": false
+    },
+    "shoot_charger": {
+      "seconds": 1.0059375,
+      "peak": 0.26164302229881287,
+      "loop": false
+    },
+    "roller_flick": {
+      "seconds": 1.212875,
+      "peak": 0.7668793201446533,
+      "loop": false
+    },
+    "roll": {
+      "seconds": 1.74284375,
+      "peak": 0.34861138463020325,
+      "loop": true
+    },
+    "shoot_dualies": {
+      "seconds": 0.68425,
+      "peak": 0.07644517719745636,
+      "loop": false
+    },
+    "dualies_roll": {
+      "seconds": 1.05415625,
+      "peak": 0.5669921636581421,
+      "loop": false
+    },
+    "slosh_throw": {
+      "seconds": 1.09434375,
+      "peak": 0.7605175971984863,
+      "loop": false
+    },
+    "slosh_land": {
+      "seconds": 1.07690625,
+      "peak": 0.3343827724456787,
+      "loop": false
+    },
+    "splatling_spin": {
+      "seconds": 1.75571875,
+      "peak": 0.2693363428115845,
+      "loop": true
+    },
+    "splatling_ready": {
+      "seconds": 0.90271875,
+      "peak": 0.21014456450939178,
+      "loop": false
+    },
+    "shoot_splatling": {
+      "seconds": 0.67565625,
+      "peak": 0.08166685700416565,
+      "loop": false
+    },
+    "splatling_wind": {
+      "seconds": 1.1150625,
+      "peak": 0.27225619554519653,
+      "loop": false
+    },
+    "splat_small": {
+      "seconds": 0.7621875,
+      "peak": 0.09766549617052078,
+      "loop": false
+    },
+    "splat_big": {
+      "seconds": 1.08525,
+      "peak": 0.36116743087768555,
+      "loop": false
+    },
+    "ink_hit_wall": {
+      "seconds": 0.71290625,
+      "peak": 0.08964955061674118,
+      "loop": false
+    },
+    "bomb_throw": {
+      "seconds": 0.69146875,
+      "peak": 0.12634047865867615,
+      "loop": false
+    },
+    "bomb_beep": {
+      "seconds": 0.54440625,
+      "peak": 0.13862007856369019,
+      "loop": false
+    },
+    "bomb_explode": {
+      "seconds": 1.282,
+      "peak": 0.6933950781822205,
+      "loop": false
+    },
+    "squid_in": {
+      "seconds": 0.6714375,
+      "peak": 0.06686332821846008,
+      "loop": false
+    },
+    "squid_out": {
+      "seconds": 0.68303125,
+      "peak": 0.06736622750759125,
+      "loop": false
+    },
+    "swim": {
+      "seconds": 1.91665625,
+      "peak": 0.2942731976509094,
+      "loop": true
+    },
+    "climb": {
+      "seconds": 1.864625,
+      "peak": 0.2859235107898712,
+      "loop": true
+    },
+    "swim_splash": {
+      "seconds": 0.7335625,
+      "peak": 0.12266724556684494,
+      "loop": false
+    },
+    "jump": {
+      "seconds": 0.55240625,
+      "peak": 0.06512410938739777,
+      "loop": false
+    },
+    "land": {
+      "seconds": 0.57396875,
+      "peak": 0.07043645530939102,
+      "loop": false
+    },
+    "hit_marker": {
+      "seconds": 0.105,
+      "peak": 0.05471954494714737,
+      "loop": false
+    },
+    "ink_hit_body": {
+      "seconds": 0.68509375,
+      "peak": 0.09626110643148422,
+      "loop": false
+    },
+    "hurt": {
+      "seconds": 0.68221875,
+      "peak": 0.13742591440677643,
+      "loop": false
+    },
+    "splat_enemy": {
+      "seconds": 1.0103125,
+      "peak": 0.29908716678619385,
+      "loop": false
+    },
+    "splatted_self": {
+      "seconds": 1.9123125,
+      "peak": 0.3738848865032196,
+      "loop": false
+    },
+    "ally_splatted": {
+      "seconds": 0.85553125,
+      "peak": 0.18511198461055756,
+      "loop": false
+    },
+    "enemy_ink_sizzle": {
+      "seconds": 1.45634375,
+      "peak": 0.5265723466873169,
+      "loop": true
+    },
+    "low_ink": {
+      "seconds": 0.72953125,
+      "peak": 0.34376204013824463,
+      "loop": false
+    },
+    "empty_click": {
+      "seconds": 0.1433125,
+      "peak": 0.03982708603143692,
+      "loop": false
+    },
+    "refill_full": {
+      "seconds": 0.914625,
+      "peak": 0.23341216146945953,
+      "loop": false
+    },
+    "special_ready": {
+      "seconds": 1.4066875,
+      "peak": 0.39731428027153015,
+      "loop": false
+    },
+    "special_activate": {
+      "seconds": 1.3576875,
+      "peak": 0.7295863032341003,
+      "loop": false
+    },
+    "special_slam": {
+      "seconds": 1.422125,
+      "peak": 0.7114517688751221,
+      "loop": false
+    },
+    "storm_rain": {
+      "seconds": 2.5693125,
+      "peak": 0.3591729700565338,
+      "loop": true
+    },
+    "storm_thunder": {
+      "seconds": 2.984125,
+      "peak": 0.8674569129943848,
+      "loop": false
+    },
+    "respawn": {
+      "seconds": 1.33709375,
+      "peak": 0.3057616055011749,
+      "loop": false
+    },
+    "super_jump": {
+      "seconds": 1.31640625,
+      "peak": 0.22161874175071716,
+      "loop": false
+    },
+    "special_end": {
+      "seconds": 1.14228125,
+      "peak": 0.3302876055240631,
+      "loop": false
+    },
+    "special_ending": {
+      "seconds": 2.5900625,
+      "peak": 0.16080200672149658,
+      "loop": false
+    },
+    "shield_up": {
+      "seconds": 1.2889375,
+      "peak": 0.7039180397987366,
+      "loop": false
+    },
+    "shield_hit": {
+      "seconds": 0.7755,
+      "peak": 0.10017649829387665,
+      "loop": false
+    },
+    "shield_pop": {
+      "seconds": 1.0224375,
+      "peak": 0.20046517252922058,
+      "loop": false
+    },
+    "sonar_ping": {
+      "seconds": 1.96990625,
+      "peak": 0.35675957798957825,
+      "loop": false
+    },
+    "sonar_mark": {
+      "seconds": 0.84340625,
+      "peak": 0.20022401213645935,
+      "loop": false
+    },
+    "strike_launch": {
+      "seconds": 1.51040625,
+      "peak": 0.34799015522003174,
+      "loop": false
+    },
+    "strike_whistle": {
+      "seconds": 2.203125,
+      "peak": 0.2806570529937744,
+      "loop": false
+    },
+    "strike_impact": {
+      "seconds": 1.4321875,
+      "peak": 0.6226813197135925,
+      "loop": false
+    },
+    "tornado": {
+      "seconds": 2.724875,
+      "peak": 0.5442933440208435,
+      "loop": true
+    },
+    "zooka_fire": {
+      "seconds": 1.3811875,
+      "peak": 0.3285060226917267,
+      "loop": false
+    },
+    "wail_charge": {
+      "seconds": 2.077,
+      "peak": 0.5865489840507507,
+      "loop": false
+    },
+    "wail_blast": {
+      "seconds": 2.74475,
+      "peak": 0.6379715800285339,
+      "loop": true
+    },
+    "kraken_on": {
+      "seconds": 1.845625,
+      "peak": 0.6436862349510193,
+      "loop": false
+    },
+    "kraken_jump": {
+      "seconds": 0.9511875,
+      "peak": 0.2773469388484955,
+      "loop": false
+    },
+    "kraken_slam": {
+      "seconds": 1.3968125,
+      "peak": 0.6259673237800598,
+      "loop": false
+    },
+    "blower_inflate": {
+      "seconds": 2.14790625,
+      "peak": 0.43811333179473877,
+      "loop": true
+    },
+    "bubble_release": {
+      "seconds": 0.84171875,
+      "peak": 0.10640844702720642,
+      "loop": false
+    },
+    "bubble_pop": {
+      "seconds": 0.764375,
+      "peak": 0.08792512863874435,
+      "loop": false
+    },
+    "bubble_blast": {
+      "seconds": 1.4211875,
+      "peak": 0.6462370157241821,
+      "loop": false
+    },
+    "jet_loop": {
+      "seconds": 2.113,
+      "peak": 0.4876708984375,
+      "loop": true
+    },
+    "jet_fire": {
+      "seconds": 1.0616875,
+      "peak": 0.37998148798942566,
+      "loop": false
+    },
+    "jet_end": {
+      "seconds": 1.39425,
+      "peak": 0.48141229152679443,
+      "loop": false
+    },
+    "stamp_swing": {
+      "seconds": 1.15865625,
+      "peak": 0.4771086275577545,
+      "loop": false
+    },
+    "stamp_slam": {
+      "seconds": 1.19984375,
+      "peak": 0.5550544857978821,
+      "loop": false
+    },
+    "stamp_throw": {
+      "seconds": 1.197125,
+      "peak": 0.4101593792438507,
+      "loop": false
+    },
+    "booyah_charge": {
+      "seconds": 2.394375,
+      "peak": 0.4214627146720886,
+      "loop": true
+    },
+    "booyah_cheer": {
+      "seconds": 1.0095625,
+      "peak": 0.26918113231658936,
+      "loop": false
+    },
+    "booyah_throw": {
+      "seconds": 1.196,
+      "peak": 0.3384304642677307,
+      "loop": false
+    },
+    "booyah_blast": {
+      "seconds": 2.65825,
+      "peak": 0.7735497951507568,
+      "loop": false
+    },
+    "zip_fire": {
+      "seconds": 0.830375,
+      "peak": 0.2504065930843353,
+      "loop": false
+    },
+    "zip_latch": {
+      "seconds": 0.94053125,
+      "peak": 0.16258488595485687,
+      "loop": false
+    },
+    "zip_pull": {
+      "seconds": 1.13825,
+      "peak": 0.3380481004714966,
+      "loop": false
+    },
+    "crab_move": {
+      "seconds": 2.05175,
+      "peak": 0.45800113677978516,
+      "loop": true
+    },
+    "crab_gatling": {
+      "seconds": 0.575875,
+      "peak": 0.06727955490350723,
+      "loop": false
+    },
+    "crab_cannon": {
+      "seconds": 1.08225,
+      "peak": 0.26590070128440857,
+      "loop": false
+    },
+    "crab_roll": {
+      "seconds": 2.0993125,
+      "peak": 0.35472843050956726,
+      "loop": true
+    },
+    "crab_hit": {
+      "seconds": 0.60065625,
+      "peak": 0.0533791147172451,
+      "loop": false
+    },
+    "crab_break": {
+      "seconds": 1.572875,
+      "peak": 0.7927675247192383,
+      "loop": false
+    },
+    "ready": {
+      "seconds": 2.01934375,
+      "peak": 0.4129523038864136,
+      "loop": false
+    },
+    "go_horn": {
+      "seconds": 1.64953125,
+      "peak": 0.5133154392242432,
+      "loop": false
+    },
+    "countdown_tick": {
+      "seconds": 0.7158125,
+      "peak": 0.19553732872009277,
+      "loop": false
+    },
+    "final_count": {
+      "seconds": 0.819375,
+      "peak": 0.36441656947135925,
+      "loop": false
+    },
+    "one_minute": {
+      "seconds": 1.4435,
+      "peak": 0.27657467126846313,
+      "loop": false
+    },
+    "times_up": {
+      "seconds": 2.29015625,
+      "peak": 0.5907317996025085,
+      "loop": false
+    },
+    "zone_ours": {
+      "seconds": 1.66596875,
+      "peak": 0.6543036699295044,
+      "loop": false
+    },
+    "zone_theirs": {
+      "seconds": 1.696375,
+      "peak": 0.6425232291221619,
+      "loop": false
+    },
+    "zone_lost": {
+      "seconds": 1.30921875,
+      "peak": 0.4347255527973175,
+      "loop": false
+    },
+    "zone_broken": {
+      "seconds": 1.09590625,
+      "peak": 0.453434556722641,
+      "loop": false
+    },
+    "zone_warn": {
+      "seconds": 1.27175,
+      "peak": 0.45673781633377075,
+      "loop": false
+    },
+    "zone_chance": {
+      "seconds": 1.0648125,
+      "peak": 0.5615236163139343,
+      "loop": false
+    },
+    "zone_flood": {
+      "seconds": 1.38028125,
+      "peak": 0.6442243456840515,
+      "loop": false
+    },
+    "zone_wipe": {
+      "seconds": 1.35453125,
+      "peak": 0.4551968276500702,
+      "loop": false
+    },
+    "zone_final": {
+      "seconds": 2.4319375,
+      "peak": 0.7956743836402893,
+      "loop": false
+    },
+    "zone_hum": {
+      "seconds": 3.098125,
+      "peak": 0.1646442711353302,
+      "loop": true
+    },
+    "zone_penalty": {
+      "seconds": 1.1074375,
+      "peak": 0.332096129655838,
+      "loop": false
+    },
+    "zone_shift": {
+      "seconds": 1.54665625,
+      "peak": 0.27999407052993774,
+      "loop": false
+    },
+    "zone_overtime": {
+      "seconds": 1.70178125,
+      "peak": 0.5107543468475342,
+      "loop": false
+    },
+    "zone_tick": {
+      "seconds": 0.378125,
+      "peak": 0.021895568817853928,
+      "loop": false
+    },
+    "judge_drumroll": {
+      "seconds": 3.629875,
+      "peak": 0.573982834815979,
+      "loop": true
+    },
+    "judge_reveal": {
+      "seconds": 2.05325,
+      "peak": 0.5585177540779114,
+      "loop": false
+    },
+    "victory_fanfare": {
+      "seconds": 3.93690625,
+      "peak": 0.8154373168945312,
+      "loop": false
+    },
+    "defeat_jingle": {
+      "seconds": 2.97865625,
+      "peak": 0.470050573348999,
+      "loop": false
+    },
+    "xp_tick": {
+      "seconds": 0.2618125,
+      "peak": 0.027977272868156433,
+      "loop": false
+    },
+    "level_up": {
+      "seconds": 1.606,
+      "peak": 0.4031382203102112,
+      "loop": false
+    },
+    "step_dry": {
+      "seconds": 0.252875,
+      "peak": 0.015729181468486786,
+      "loop": false
+    },
+    "step_ink": {
+      "seconds": 0.3211875,
+      "peak": 0.016597863286733627,
+      "loop": false
+    },
+    "step_enemy": {
+      "seconds": 0.32296875,
+      "peak": 0.039102643728256226,
+      "loop": false
+    },
+    "ink_drip": {
+      "seconds": 0.26953125,
+      "peak": 0.015233870595693588,
+      "loop": false
+    },
+    "gull": {
+      "seconds": 0.868625,
+      "peak": 0.04742613434791565,
+      "loop": false
+    },
+    "ferry_horn": {
+      "seconds": 3.91859375,
+      "peak": 0.5527845621109009,
+      "loop": false
+    },
+    "halyard_clink": {
+      "seconds": 0.66815625,
+      "peak": 0.043439146131277084,
+      "loop": false
+    },
+    "harbor_ambience": {
+      "seconds": 3.62034375,
+      "peak": 0.3478825092315674,
+      "loop": true
+    },
+    "boss_roar": {
+      "seconds": 2.59753125,
+      "peak": 0.8800766468048096,
+      "loop": false
+    },
+    "boss_step": {
+      "seconds": 0.99759375,
+      "peak": 0.33767035603523254,
+      "loop": false
+    },
+    "boss_slam": {
+      "seconds": 1.45928125,
+      "peak": 0.6790709495544434,
+      "loop": false
+    },
+    "boss_tele": {
+      "seconds": 1.19746875,
+      "peak": 0.2991848886013031,
+      "loop": false
+    },
+    "boss_whistle": {
+      "seconds": 1.73140625,
+      "peak": 0.27615800499916077,
+      "loop": false
+    },
+    "boss_barrel": {
+      "seconds": 1.1118125,
+      "peak": 0.48200178146362305,
+      "loop": false
+    },
+    "boss_cannon_charge": {
+      "seconds": 2.09528125,
+      "peak": 0.5646742582321167,
+      "loop": false
+    },
+    "boss_cannon_sweep": {
+      "seconds": 3.113375,
+      "peak": 0.47858038544654846,
+      "loop": true
+    },
+    "boss_gallop": {
+      "seconds": 2.50165625,
+      "peak": 0.7234886288642883,
+      "loop": true
+    },
+    "boss_crash": {
+      "seconds": 1.42375,
+      "peak": 0.7015451788902283,
+      "loop": false
+    },
+    "boss_dizzy": {
+      "seconds": 3.15778125,
+      "peak": 0.18100084364414215,
+      "loop": true
+    },
+    "boss_frenzy": {
+      "seconds": 3.66721875,
+      "peak": 0.4814504384994507,
+      "loop": true
+    },
+    "crablet_chitter": {
+      "seconds": 0.69896875,
+      "peak": 0.5461282730102539,
+      "loop": false
+    },
+    "crablet_pop": {
+      "seconds": 0.8126875,
+      "peak": 0.20675595104694366,
+      "loop": false
+    },
+    "boss_hit": {
+      "seconds": 0.68471875,
+      "peak": 0.09926542639732361,
+      "loop": false
+    },
+    "boss_crit": {
+      "seconds": 0.88971875,
+      "peak": 0.21781392395496368,
+      "loop": false
+    },
+    "boss_phase": {
+      "seconds": 2.05221875,
+      "peak": 0.7178974747657776,
+      "loop": false
+    },
+    "boss_title": {
+      "seconds": 2.77675,
+      "peak": 0.7808093428611755,
+      "loop": false
+    },
+    "boss_defeat": {
+      "seconds": 4.25678125,
+      "peak": 0.8178913593292236,
+      "loop": false
+    },
+    "boss_sunk": {
+      "seconds": 2.4756875,
+      "peak": 0.8182799220085144,
+      "loop": false
+    },
+    "brolly_blast": {
+      "seconds": 1.01740625,
+      "peak": 0.23879051208496094,
+      "loop": false
+    },
+    "brolly_open": {
+      "seconds": 0.81028125,
+      "peak": 0.4852812886238098,
+      "loop": false
+    },
+    "brolly_close": {
+      "seconds": 0.523375,
+      "peak": 0.14692422747612,
+      "loop": false
+    },
+    "brolly_hit": {
+      "seconds": 0.6869375,
+      "peak": 0.08454861491918564,
+      "loop": false
+    },
+    "brolly_break": {
+      "seconds": 1.055625,
+      "peak": 0.3403998911380768,
+      "loop": false
+    },
+    "brolly_launch": {
+      "seconds": 1.0958125,
+      "peak": 0.4387340247631073,
+      "loop": false
+    },
+    "brolly_regrow": {
+      "seconds": 0.870625,
+      "peak": 0.1345156729221344,
+      "loop": false
+    },
+    "bow_draw": {
+      "seconds": 1.47478125,
+      "peak": 0.17777468264102936,
+      "loop": true
+    },
+    "bow_ring1": {
+      "seconds": 0.76584375,
+      "peak": 0.07211465388536453,
+      "loop": false
+    },
+    "bow_full": {
+      "seconds": 0.93921875,
+      "peak": 0.2728480398654938,
+      "loop": false
+    },
+    "bow_loose": {
+      "seconds": 1.04659375,
+      "peak": 0.3532596528530121,
+      "loop": false
+    },
+    "bow_thunk": {
+      "seconds": 0.7814375,
+      "peak": 0.14438046514987946,
+      "loop": false
+    },
+    "bow_tick": {
+      "seconds": 0.48578125,
+      "peak": 0.031628020107746124,
+      "loop": false
+    },
+    "bow_burst": {
+      "seconds": 1.08040625,
+      "peak": 0.2205706685781479,
+      "loop": false
+    },
+    "blade_swish": {
+      "seconds": 0.6988125,
+      "peak": 0.19106294214725494,
+      "loop": false
+    },
+    "blade_charge": {
+      "seconds": 1.32215625,
+      "peak": 0.23869547247886658,
+      "loop": true
+    },
+    "blade_ready": {
+      "seconds": 0.95128125,
+      "peak": 0.23079921305179596,
+      "loop": false
+    },
+    "blade_heavy": {
+      "seconds": 1.143625,
+      "peak": 0.9033291339874268,
+      "loop": false
+    },
+    "blade_hit": {
+      "seconds": 0.9074375,
+      "peak": 0.1878335028886795,
+      "loop": false
+    },
+    "mitts_punch": {
+      "seconds": 0.541375,
+      "peak": 0.04404677450656891,
+      "loop": false
+    },
+    "mitts_pop": {
+      "seconds": 0.91553125,
+      "peak": 0.22433799505233765,
+      "loop": false
+    },
+    "mitts_charge": {
+      "seconds": 1.55225,
+      "peak": 0.4530195891857147,
+      "loop": true
+    },
+    "mitts_full": {
+      "seconds": 0.86271875,
+      "peak": 0.19907256960868835,
+      "loop": false
+    },
+    "mitts_leap": {
+      "seconds": 1.064375,
+      "peak": 0.3813023269176483,
+      "loop": false
+    },
+    "mitts_land": {
+      "seconds": 1.14403125,
+      "peak": 0.47855740785598755,
+      "loop": false
+    },
+    "mitts_cling": {
+      "seconds": 0.78396875,
+      "peak": 0.156522735953331,
+      "loop": false
+    },
+    "mitts_drain": {
+      "seconds": 2.05609375,
+      "peak": 0.42993611097335815,
+      "loop": true
+    },
+    "mitts_unstick": {
+      "seconds": 0.620875,
+      "peak": 0.047933124005794525,
+      "loop": false
+    },
+    "shaker_clink": {
+      "seconds": 0.69003125,
+      "peak": 0.05320526659488678,
+      "loop": false
+    },
+    "shaker_clink_max": {
+      "seconds": 0.92065625,
+      "peak": 0.34711137413978577,
+      "loop": false
+    },
+    "shaker_fizz": {
+      "seconds": 1.5615,
+      "peak": 0.2257118821144104,
+      "loop": true
+    },
+    "shaker_hop": {
+      "seconds": 0.4265625,
+      "peak": 0.01690247468650341,
+      "loop": false
+    },
+    "shaker_fizzle": {
+      "seconds": 0.672875,
+      "peak": 0.04916069284081459,
+      "loop": false
+    },
+    "waddle_land": {
+      "seconds": 0.6151875,
+      "peak": 0.07440053671598434,
+      "loop": false
+    },
+    "waddle_lock": {
+      "seconds": 0.7764375,
+      "peak": 0.26639464497566223,
+      "loop": false
+    },
+    "waddle_hop": {
+      "seconds": 0.47128125,
+      "peak": 0.02282337099313736,
+      "loop": false
+    },
+    "waddle_walk": {
+      "seconds": 2.02609375,
+      "peak": 0.41283559799194336,
+      "loop": true
+    },
+    "torpedo_whirr": {
+      "seconds": 1.758125,
+      "peak": 0.3392634391784668,
+      "loop": true
+    },
+    "torpedo_throw": {
+      "seconds": 0.84590625,
+      "peak": 0.18218350410461426,
+      "loop": false
+    },
+    "torpedo_transform": {
+      "seconds": 1.1455,
+      "peak": 0.5897925496101379,
+      "loop": false
+    },
+    "torpedo_launch": {
+      "seconds": 1.22471875,
+      "peak": 0.4898129999637604,
+      "loop": false
+    },
+    "torpedo_pop": {
+      "seconds": 1.12296875,
+      "peak": 0.16402742266654968,
+      "loop": false
+    },
+    "torpedo_lock": {
+      "seconds": 0.76375,
+      "peak": 0.24686561524868011,
+      "loop": false
+    },
+    "tracer_zap": {
+      "seconds": 0.78878125,
+      "peak": 0.11181655526161194,
+      "loop": false
+    },
+    "tracer_bounce": {
+      "seconds": 0.787375,
+      "peak": 0.10732421278953552,
+      "loop": false
+    },
+    "tracer_hum": {
+      "seconds": 1.6763125,
+      "peak": 0.256388396024704,
+      "loop": true
+    },
+    "tracer_hit": {
+      "seconds": 0.86415625,
+      "peak": 0.27811938524246216,
+      "loop": false
+    },
+    "boomerang_throw": {
+      "seconds": 0.62675,
+      "peak": 0.09224619716405869,
+      "loop": false
+    },
+    "boomerang_whirr": {
+      "seconds": 1.56484375,
+      "peak": 0.17635557055473328,
+      "loop": true
+    },
+    "boomerang_shred": {
+      "seconds": 0.222,
+      "peak": 0.022863540798425674,
+      "loop": false
+    },
+    "boomerang_return": {
+      "seconds": 1.2299375,
+      "peak": 0.20754298567771912,
+      "loop": false
+    },
+    "boomerang_orbit": {
+      "seconds": 1.84515625,
+      "peak": 0.17642644047737122,
+      "loop": true
+    },
+    "boomerang_burst": {
+      "seconds": 1.15646875,
+      "peak": 0.44643130898475647,
+      "loop": false
+    }
+  },
+  "music": {
+    "title": {
+      "seconds": 77,
+      "peak": 0.7270973920822144,
+      "name": "Splash Attitude",
+      "bpm": 128,
+      "loopFrom": 7.5,
+      "loopEnd": 75
+    },
+    "menu": {
+      "seconds": 61.42859375,
+      "peak": 0.7806538939476013,
+      "name": "Harbor Lounge",
+      "bpm": 105,
+      "loopFrom": 4.571428571428571,
+      "loopEnd": 59.42857142857142
+    },
+    "battle": {
+      "seconds": 62.80003125,
+      "peak": 0.734921395778656,
+      "name": "Turf Riot",
+      "bpm": 150,
+      "loopFrom": 3.2,
+      "loopEnd": 60.800000000000004
+    },
+    "battle_final": {
+      "seconds": 35.6,
+      "peak": 0.7287389636039734,
+      "name": "Final Splash",
+      "bpm": 150,
+      "loopFrom": 1.6,
+      "loopEnd": 33.6
+    },
+    "results_win": {
+      "seconds": 17.483875,
+      "peak": 0.7893462181091309,
+      "name": "Fresh Victory",
+      "bpm": 124,
+      "loopFrom": 0,
+      "loopEnd": 15.483870967741936
+    },
+    "results_lose": {
+      "seconds": 24.85715625,
+      "peak": 0.6436123847961426,
+      "name": "Next Time",
+      "bpm": 84,
+      "loopFrom": 0,
+      "loopEnd": 22.857142857142858
+    },
+    "boss": {
+      "seconds": 60.28571875,
+      "peak": 0.7670950889587402,
+      "name": "Hull Alarm",
+      "bpm": 140,
+      "loopFrom": 3.4285714285714284,
+      "loopEnd": 58.285714285714285
+    },
+    "boss_2": {
+      "seconds": 31.142875,
+      "peak": 0.7685832977294922,
+      "name": "Brood Tide",
+      "bpm": 140,
+      "loopFrom": 1.7142857142857142,
+      "loopEnd": 29.142857142857142
+    },
+    "boss_3": {
+      "seconds": 31.142875,
+      "peak": 0.7526222467422485,
+      "name": "Shell Shock",
+      "bpm": 140,
+      "loopFrom": 1.7142857142857142,
+      "loopEnd": 29.142857142857142
+    }
+  }
+}

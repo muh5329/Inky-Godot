@@ -1,0 +1,1 @@
+{"private":true,"type":"module","dependencies":{"@napi-rs/canvas":"^0.1.80","three":"0.186.0","web-audio-engine":"^0.13.4"}}

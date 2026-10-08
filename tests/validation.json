@@ -1,0 +1,72 @@
+{
+  "engine": "4.7.stable.official.5b4e0cb0f",
+  "upstream_commit": "98ea29694ab3eebaaeaa995c2b525ac883a48de5",
+  "gameplay": {
+    "assertions": 67,
+    "failures": 0
+  },
+  "assets": {
+    "scenes": 78,
+    "failures": 0
+  },
+  "offline_scenarios": [
+    {
+      "stage": "tidewater",
+      "mode": "turf",
+      "passed": true,
+      "exit": 0
+    },
+    {
+      "stage": "kelpline",
+      "mode": "turf",
+      "passed": true,
+      "exit": 0
+    },
+    {
+      "stage": "halyard",
+      "mode": "zones",
+      "passed": true,
+      "exit": 0
+    },
+    {
+      "stage": "saltpan",
+      "mode": "zones",
+      "passed": true,
+      "exit": 0
+    },
+    {
+      "stage": "crossmarket",
+      "mode": "turf",
+      "passed": true,
+      "exit": 0
+    },
+    {
+      "stage": "lockgate",
+      "mode": "zones",
+      "passed": true,
+      "exit": 0
+    },
+    {
+      "stage": "terraces",
+      "mode": "boss",
+      "passed": true,
+      "exit": 0
+    }
+  ],
+  "network": {
+    "clients": 2,
+    "stage": "cargo",
+    "mode": "zones",
+    "host_coverage": [
+      1.59574468085106,
+      0.55217831813576
+    ],
+    "guest_coverage": [
+      1.59574468085106,
+      0.55217831813576
+    ]
+  },
+  "standalone_headless": "passed",
+  "source_parity": "incomplete; see docs/PORTING.md",
+  "standalone_rendered": "passed"
+}
